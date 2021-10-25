@@ -1,0 +1,30 @@
+.bg-color {
+    background-color: #5D60EF;
+}
+.nav-title {
+    padding-left: 80px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.nav-nome {
+    color: #ffffff;
+    padding-right: 40px;
+
+}
+.nav-nome:hover {
+    color: #ffffff;
+}
+.foto-modal {
+    height: 230px;
+}
+.titulos {
+    margin-left: 20px;
+}
+.titulos p{
+    margin-bottom: 23px;
+}
+.titulos b{
+    margin-bottom: 25px;
+    font-size: 18px;
+    margin-right: 5px;
+}
